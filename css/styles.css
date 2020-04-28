@@ -10228,10 +10228,6 @@ form .row:first-child .floating-label-form-group {
   display: none;
 }
 
-.backupupload {
-  display: none;
-}
-
 .contact {
   margin: 2rem;
 }
@@ -10245,16 +10241,6 @@ form .row:first-child .floating-label-form-group {
   }
 
   .backupinfo {
-    display: block;
-  }
-}
-
-@media screen and (max-width: 790px) {
-  .uploadbutton {
-    display: none;
-  }
-
-  .backupupload {
     display: block;
   }
 }
